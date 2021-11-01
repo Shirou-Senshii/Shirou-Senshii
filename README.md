@@ -1,6 +1,6 @@
 - Hi, I’m @Shirou-Senshii, currently going to school to get my "Abitur"
 - I am interested in video games, 3d graphics, programming (specifically data mining)  and art.
-- I’m currently learning Python and C++.
+- I’m currently learning Python, Java and C++.
 - 📫 If you have any concerns you can reach out to me on Discord : Shirou#9929.
 
 <!---
